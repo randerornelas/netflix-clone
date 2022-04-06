@@ -28,71 +28,71 @@
 }
 
 .bg-the-batman {
-    background: linear-gradient(rgba(0,0,0,.70), rgba(0,0,0,.70)), url('/img/backgrounds/bg-the-batman.jpg');
+    background: linear-gradient(rgba(0,0,0,.70), rgba(0,0,0,.70)), url('../img/backgrounds/bg-the-batman.jpg');
     background-size: cover;
 }
 
 .bg-mais-informacoes {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-eternos.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-eternos.jpg');
     background-size: cover;
 }
 
 .bg-gaviao-arqueiro {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-gaviao-arqueiro.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-gaviao-arqueiro.jpg');
     background-size: cover;
 }
 
 .bg-homem-aranha-nwh {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-homem-aranha-nwh.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-homem-aranha-nwh.jpg');
     background-size: cover;
 }
 
 .bg-shang-chi {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-shang-chi.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-shang-chi.jpg');
     background-size: cover;
 }
 
 .bg-o-cavaleiro-das-trevas {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-o-cavaleiro-das-trevas.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-o-cavaleiro-das-trevas.jpg');
     background-size: cover;
 }
 
 .bg-wandavision {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-wandavision.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-wandavision.jpg');
     background-size: cover;
 }
 
 .bg-batman-vs-superman {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-batman-vs-superman.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-batman-vs-superman.jpg');
     background-size: cover;
 }
 
 .bg-guardioes-da-galaxia {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-guardioes-da-galaxia.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-guardioes-da-galaxia.jpg');
     background-size: cover;
 }
 
 .bg-liga-da-justica-zack-snyder {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-liga-da-justica-zack-snyder.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-liga-da-justica-zack-snyder.jpg');
     background-size: cover;
 }
 
 .bg-loki {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-loki.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-loki.jpg');
     background-size: cover;
 }
 
 .bg-vingadores-ultimato {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-vingadores-ultimato.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-vingadores-ultimato.jpg');
     background-size: cover;
 }
 
 .bg-mulher-maravilha-1984 {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-mulher-maravilha-1984.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-mulher-maravilha-1984.jpg');
     background-size: cover;
 }
 
 .bg-eternos {
-    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-eternos.jpg');
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('../img/backgrounds/bg-eternos.jpg');
     background-size: cover;
 }
