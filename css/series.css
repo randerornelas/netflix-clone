@@ -1,0 +1,60 @@
+:root {
+    --preto: #141414;
+}
+
+.container-series {
+    display: grid;
+    grid-template-columns: repeat(6, 17%);
+    margin: 20px;
+}
+
+.container-series div {
+    height: 300px;
+    width: 200px;
+    border: solid 5px var(--preto);
+}
+
+.container-series .serie-1 {
+    background: url('/img/séries/DC/flash.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-2 {
+    background: url('/img/séries/marvel/falcao-e-o-soldado-invernal.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-3 {
+    background: url('/img/séries/marvel/gaviao-arqueiro.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-4 {
+    background: url('/img/séries/DC/lendas-do-amanha.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-5 {
+    background: url('/img/séries/DC/superman-e-lois.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-6 {
+    background: url('/img/séries/marvel/loki.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-7 {
+    background: url('/img/séries/marvel/wandavision.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-8 {
+    background: url('/img/séries/DC/watchmen.jpg');
+    background-size: cover;
+}
+
+.container-series .serie-9 {
+    background: url('/img/séries/DC/arqueiro.jpg');
+    background-size: cover;
+}

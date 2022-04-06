@@ -27,8 +27,8 @@
     width: 100%;
 }
 
-.bg-trailer {
-    background: linear-gradient(rgba(0,0,0,.70), rgba(0,0,0,.70)), url('/img/backgrounds/bg-eternos.jpg');
+.bg-the-batman {
+    background: linear-gradient(rgba(0,0,0,.70), rgba(0,0,0,.70)), url('/img/backgrounds/bg-the-batman.jpg');
     background-size: cover;
 }
 
@@ -64,5 +64,35 @@
 
 .bg-batman-vs-superman {
     background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-batman-vs-superman.jpg');
+    background-size: cover;
+}
+
+.bg-guardioes-da-galaxia {
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-guardioes-da-galaxia.jpg');
+    background-size: cover;
+}
+
+.bg-liga-da-justica-zack-snyder {
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-liga-da-justica-zack-snyder.jpg');
+    background-size: cover;
+}
+
+.bg-loki {
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-loki.jpg');
+    background-size: cover;
+}
+
+.bg-vingadores-ultimato {
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-vingadores-ultimato.jpg');
+    background-size: cover;
+}
+
+.bg-mulher-maravilha-1984 {
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-mulher-maravilha-1984.jpg');
+    background-size: cover;
+}
+
+.bg-eternos {
+    background: linear-gradient(rgba(0,0,0,.80), rgba(0,0,0,.80)), url('/img/backgrounds/bg-eternos.jpg');
     background-size: cover;
 }
